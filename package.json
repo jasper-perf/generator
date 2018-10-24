@@ -48,7 +48,7 @@
     "istextorbinary": "^2.1.0",
     "lodash": "^4.17.4",
     "make-dir": "^1.1.0",
-    "mem-fs-editor": "^3.0.2",
+    "mem-fs-editor": "^4.0.0",
     "minimist": "^1.2.0",
     "pretty-bytes": "^4.0.2",
     "read-chunk": "^2.1.0",
